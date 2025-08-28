@@ -13,19 +13,18 @@ This repo is meant to serve as:
 - A **visual reference** with diagrams and examples  
 - A **living document** that grows with new insights and topics  
 
----
+## 🗂 Topics Explained & Links
+Each major topic will have its own folder in the repository, containing notes, diagrams, and examples:
 
----
+- [📡 Networking](./networking) – OSI Model, TCP/IP, HTTP, DNS, etc.
+- [⚙️ Software Engineering]() – Principles, methodologies, design patterns.`(pending...)`
+- [🏗 Computer Architecture]() – Basics of hardware & system design.`(pending...)`
 
 ## 📚 Topics (to be expanded)
-- Networking (OSI Model, TCP/IP, HTTP, DNS)
 - Operating Systems (processes, threads, memory management)
 - Programming Concepts (OOP, functional programming, paradigms)
 - Data Structures & Algorithms
 - Databases (relational, NoSQL, transactions)
-- Software Engineering Principles
-- Computer Architecture Basics
-
 
 ## 🛠 Tools Used
 - [Excalidraw](https://excalidraw.com) – for diagrams and visual aids  
