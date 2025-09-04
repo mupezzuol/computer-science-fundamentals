@@ -17,13 +17,12 @@ This repo is meant to serve as:
 Each major topic will have its own folder in the repository, containing notes, diagrams, and examples:
 
 - [📡 Networking](./networking) – OSI Model, TCP/IP, HTTP, DNS, etc.
+- [👨🏼‍💻 Data Structures & Algorithms](./data-structures-algorithms/) – Big O Notation, time/space complecity, data structures, etc.
 - [⚙️ Software Engineering]() – Principles, methodologies, design patterns.`(pending...)`
-- [🏗 Computer Architecture]() – Basics of hardware & system design.`(pending...)`
 
 ## 📚 Topics (to be expanded)
 - Operating Systems (processes, threads, memory management)
 - Programming Concepts (OOP, functional programming, paradigms)
-- Data Structures & Algorithms
 - Databases (relational, NoSQL, transactions)
 
 ## 🛠 Tools Used
